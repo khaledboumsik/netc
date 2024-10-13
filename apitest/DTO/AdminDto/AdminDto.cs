@@ -1,0 +1,1 @@
+public record Admin(int Id,string Name,string Password);
